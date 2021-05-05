@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libstaticInitializer.so -o /home/ikiwi/ikiwi_abila_new/devel/lib/libstaticInitializer.so CMakeFiles/staticInitializer.dir/__/__/__/src/StaticInitializer.cpp.o -lspqr -lcholmod -lccolamd -lcamd -lcolamd -lamd -llapack -lblas -lblas -lsuitesparseconfig -lrt 

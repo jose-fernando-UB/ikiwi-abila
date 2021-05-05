@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/install
+
+Name: ncd_parser
+Description: Description of ncd_parser
+Version: 0.3.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

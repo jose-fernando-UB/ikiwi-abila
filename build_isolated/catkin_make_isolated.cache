@@ -1,0 +1,2 @@
+cartographer:cartographer_ros/cartographer_ros:cartographer_ros/cartographer_ros_msgs
+-G Ninja -DCATKIN_DEVEL_PREFIX=/home/ikiwi/ikiwi_abila_new/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/ikiwi/ikiwi_abila_new/install_isolated

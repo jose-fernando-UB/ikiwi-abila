@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/install
+
+Name: ultrasound_hr04
+Description: Description of ultrasound_hr04
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

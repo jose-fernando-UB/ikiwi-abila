@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/install
+
+Name: iris_lama
+Description: Description of iris_lama
+Version: 1.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -liris_lama
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/devel
+
+Name: iris_lama_ros
+Description: Description of iris_lama_ros
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,9 @@
+/home/ikiwi/ikiwi_abila_new/install/_setup_util.py
+/home/ikiwi/ikiwi_abila_new/install/env.sh
+/home/ikiwi/ikiwi_abila_new/install/setup.bash
+/home/ikiwi/ikiwi_abila_new/install/local_setup.bash
+/home/ikiwi/ikiwi_abila_new/install/setup.sh
+/home/ikiwi/ikiwi_abila_new/install/local_setup.sh
+/home/ikiwi/ikiwi_abila_new/install/setup.zsh
+/home/ikiwi/ikiwi_abila_new/install/local_setup.zsh
+/home/ikiwi/ikiwi_abila_new/install/.rosinstall

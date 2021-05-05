@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/install
+
+Name: ikiwi_abila_navigation
+Description: Description of ikiwi_abila_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

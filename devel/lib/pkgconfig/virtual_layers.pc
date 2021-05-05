@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/devel
+
+Name: virtual_layers
+Description: Description of virtual_layers
+Version: 0.0.0
+Cflags: -I/home/ikiwi/ikiwi_abila_new/devel/include -I/home/ikiwi/ikiwi_abila_new/src/virtual_layers/include
+Libs: -L${prefix}/lib -lvirtual_layer
+Requires: costmap_2d dynamic_reconfigure roscpp

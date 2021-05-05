@@ -1,0 +1,8 @@
+prefix=/home/ikiwi/ikiwi_abila_new/devel
+
+Name: ikiwi_abila_localization
+Description: Description of ikiwi_abila_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
